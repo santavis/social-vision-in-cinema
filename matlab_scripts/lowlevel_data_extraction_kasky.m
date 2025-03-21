@@ -1,16 +1,16 @@
 %% Kasky (Experiment 2): Extract lowlevel data and combine it with the mid-level semantic feature data
 %
 % Process
-%       1. Extact low level information for every frame (Luminance,Entropy,SpatialEnergyLF,spatialEnergyHF)
+%       1. Extract low level information for every frame (Luminance,Entropy,SpatialEnergyLF,spatialEnergyHF)
 %       3. Extract optic flow and differential energy for every consecutive frame pair
 %       4. Calculate difference in framewise information between
 %          consecutive frames
 %       5. Save average visual low-level data for each frame (for regression)
 %       7. Save pixelwise data averaged within specified time windows and
-%          combine the data with the midlevel object information (for gaze prediction)
+%          combine the data with the mid-level object information (for gaze prediction)
 %       8. Extract auditory low-level information for every frame and
 %          save with average visual low-level data (for regression)
-%       9. Create 1ms time-series of the predictos that can be then analyzed
+%       9. Create 1ms time-series of the predictors that can be then analyzed
 %          in different time windows
 %
 % Severi Santavirta 27.11.2023
