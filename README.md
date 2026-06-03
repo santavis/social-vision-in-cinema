@@ -1,6 +1,6 @@
 # Modelling human social vision with cinematic stimuli
 
-This repository contains the scripts that were used to analyze data and report findings in the publication: "Modeling human social vision with cinematic stimuli: An integrative approach" (2026)(https://jov.arvojournals.org/article.aspx?articleid=2811900)
+This repository contains the scripts that were used to analyze data and report findings in the publication: "Modeling human social vision with cinematic stimuli: An integrative approach" (Journal of Vision, 2026)(https://jov.arvojournals.org/article.aspx?articleid=2811900)
 
 The analyses:
 
